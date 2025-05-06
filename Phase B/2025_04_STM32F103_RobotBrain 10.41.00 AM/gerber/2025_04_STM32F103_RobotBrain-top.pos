@@ -1,0 +1,53 @@
+### Footprint positions - created on 2025-05-06T12:25:04-0600 ###
+### Printed by KiCad version 9.0.1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref        Val               Package                                              PosX       PosY       Rot  Side
+C1           0.1uF             C_0805_2012Metric_Pad1.18x1.45mm_HandSolder       41.0000    37.0600  180.0000  top
+C2           0.1uF             C_0805_2012Metric_Pad1.18x1.45mm_HandSolder       42.4400    49.4100  180.0000  top
+C3           0.1uF             C_0805_2012Metric_Pad1.18x1.45mm_HandSolder       55.3700    49.3300   90.0000  top
+C4           0.1uF             C_0805_2012Metric_Pad1.18x1.45mm_HandSolder       56.8600    38.4100  -90.0000  top
+C5           0.1uF             C_0805_2012Metric_Pad1.18x1.45mm_HandSolder       54.2900    33.4600    0.0000  top
+C6           10uF              C_0805_2012Metric_Pad1.18x1.45mm_HandSolder       54.2900    31.1700    0.0000  top
+C7           0.01uF            C_0805_2012Metric_Pad1.18x1.45mm_HandSolder       45.1100    21.1200  180.0000  top
+C8           22pF              C_0805_2012Metric_Pad1.18x1.45mm_HandSolder       49.2500    33.6100    0.0000  top
+C9           22pF              C_0805_2012Metric_Pad1.18x1.45mm_HandSolder       45.2000    34.0200  180.0000  top
+C11          0.1uF             C_0805_2012Metric_Pad1.18x1.45mm_HandSolder       84.6100     2.4300  180.0000  top
+C12          0.1uF             C_0805_2012Metric_Pad1.18x1.45mm_HandSolder        6.1375    12.6000    0.0000  top
+D1           USB_PWR_LED       LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder     55.0600    68.5650   90.0000  top
+D2           uP_PWR_LED        LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder     56.3675    25.8000  180.0000  top
+D3           USER_LED          LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder     38.5900    33.5700  -90.0000  top
+D4           BL_IND_LED        LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder     56.3100    77.2750   90.0000  top
+F1           PTCSMD            Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder    50.5700    68.5150  -90.0000  top
+J1           USB_B_Mini        USB_Mini-B_Lumberg_2486_01_Horizontal             46.2800    75.4500  180.0000  top
+J2           CONN_MPU6050      PinSocket_1x08_P2.54mm_Vertical                   84.3650    29.9150  180.0000  top
+J3           CONN_ULTRA        PinSocket_1x04_P2.54mm_Vertical                   42.3600     6.2650   90.0000  top
+J4           CONN_SWD          PinSocket_1x04_P2.54mm_Vertical                   24.0600    69.7100   90.0000  top
+J5           CONN_5V           JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical             19.6500     9.8750    0.0000  top
+J6           CONN_3V3          JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical             30.4800     9.8500    0.0000  top
+J7           CONN_DRIVE        JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical             60.4100    60.3800    0.0000  top
+J8           CONN_HAL          JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical             65.7900     9.6800   90.0000  top
+J9           CONN_PS2          PinHeader_1x07_P2.54mm_Vertical                   86.4000    59.9500  180.0000  top
+J10          CONN_TRACK        JST_XH_B6B-XH-A_1x06_P2.50mm_Vertical              5.4100    30.9900   90.0000  top
+J11          CONN_UART         JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical              6.6200    63.4800  -90.0000  top
+LED1         IN-PI55TATPRPGPB  INPI55TATPRPGPB                                    7.2500     7.4500    0.0000  top
+LED2         IN-PI55TATPRPGPB  INPI55TATPRPGPB                                   83.4600     7.6100  180.0000  top
+MDBT42T-AT1  MDBT42T-AT        MDBT42T                                           66.3000    77.2100    0.0000  top
+Q1           BSS138            SOT-23                                            35.0475    31.4400    0.0000  top
+R1           10k               R_0805_2012Metric_Pad1.20x1.40mm_HandSolder       28.2000    39.9400  180.0000  top
+R2           22                R_0805_2012Metric_Pad1.20x1.40mm_HandSolder       45.5800    67.0350  -90.0000  top
+R3           22                R_0805_2012Metric_Pad1.20x1.40mm_HandSolder       47.7600    67.0150   90.0000  top
+R4           10k               R_0805_2012Metric_Pad1.20x1.40mm_HandSolder       52.7800    68.5350   90.0000  top
+R5           10k               R_0805_2012Metric_Pad1.20x1.40mm_HandSolder       54.2475    28.1800    0.0000  top
+R6           10k               R_0805_2012Metric_Pad1.20x1.40mm_HandSolder       40.8600    33.6000  -90.0000  top
+R7           10k               R_0805_2012Metric_Pad1.20x1.40mm_HandSolder       58.5400    77.2750   90.0000  top
+R8           10k               R_0805_2012Metric_Pad1.20x1.40mm_HandSolder       83.9000    23.3400    0.0000  top
+R9           10k               R_0805_2012Metric_Pad1.20x1.40mm_HandSolder       35.0175    28.4500  180.0000  top
+R10          10k               R_0805_2012Metric_Pad1.20x1.40mm_HandSolder       35.0175    34.5400  180.0000  top
+S1           JS202011SCQN      SW_uP_Boot                                        27.0100    34.1200  180.0000  top
+SW1          SW_uP_Reset       SW_uP_Reset                                       45.4700    25.4700    0.0000  top
+SW2          SW_USER           SW_SPST_PTS647_Sx50                               83.5000    18.2900  -90.0000  top
+U1           STM32F103RCTx     LQFP-64_10x10mm_P0.5mm                            48.6400    42.6650   90.0000  top
+U2           USBLC6-2SC6       SOT-23-6                                          46.6800    61.1025  -90.0000  top
+Y2           16MHz             Crystal_SMD_Abracon_ABM8G-4Pin_3.2x2.5mm          46.9525    30.6800    0.0000  top
+## End
