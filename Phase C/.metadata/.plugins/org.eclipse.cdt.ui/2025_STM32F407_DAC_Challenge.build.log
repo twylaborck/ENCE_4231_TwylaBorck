@@ -1,0 +1,10 @@
+13:31:02 **** Incremental Build of configuration Debug for project 2025_STM32F407_DAC_Challenge ****
+make -j7 all 
+arm-none-eabi-size  2025_STM32F407_DAC_Challenge.elf 
+   text	   data	    bss	    dec	    hex	filename
+  47608	    124	   4636	  52368	   cc90	2025_STM32F407_DAC_Challenge.elf
+Finished building: default.size.stdout
+ 
+
+13:31:02 Build Finished. 0 errors, 0 warnings. (took 173ms)
+

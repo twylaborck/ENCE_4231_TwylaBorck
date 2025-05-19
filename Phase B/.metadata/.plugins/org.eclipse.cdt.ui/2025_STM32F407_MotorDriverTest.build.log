@@ -1,0 +1,10 @@
+13:43:00 **** Incremental Build of configuration Debug for project 2025_STM32F407_MotorDriverTest ****
+make -j7 all 
+arm-none-eabi-size  2025_STM32F407_MotorDriverTest.elf 
+   text	   data	    bss	    dec	    hex	filename
+  38680	    124	   4300	  43104	   a860	2025_STM32F407_MotorDriverTest.elf
+Finished building: default.size.stdout
+ 
+
+13:43:00 Build Finished. 0 errors, 0 warnings. (took 162ms)
+

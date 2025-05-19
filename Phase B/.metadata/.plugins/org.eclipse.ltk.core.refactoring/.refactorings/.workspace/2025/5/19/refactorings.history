@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;2025_STM32F103RCT6_MotorDriverTest&apos;" deleteContents="false" description="Delete resource &apos;2025_STM32F103RCT6_MotorDriverTest&apos;" element1="/2025_STM32F103RCT6_MotorDriverTest" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1746728276744"/>
+</session>
