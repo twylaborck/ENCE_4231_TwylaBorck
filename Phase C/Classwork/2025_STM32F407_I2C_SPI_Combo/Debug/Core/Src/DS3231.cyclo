@@ -1,0 +1,6 @@
+../Core/Src/DS3231.c:6:9:readRegister	1
+../Core/Src/DS3231.c:26:9:readBCDRegister	1
+../Core/Src/DS3231.c:46:6:writeRegister	1
+../Core/Src/DS3231.c:63:6:writeBCDRegister	1
+../Core/Src/DS3231.c:80:9:_toBcd	1
+../Core/Src/DS3231.c:86:9:_fromBcd	1

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;2025_STM32F407_ADC_Challenge&apos; to &apos;2025_STM32F407_BatteryMonitor&apos;" description="Rename resource &apos;2025_STM32F407_ADC_Challenge&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/2025_STM32F407_ADC_Challenge" name="2025_STM32F407_BatteryMonitor" stamp="1747861874711" updateReferences="true"/>
+</session>

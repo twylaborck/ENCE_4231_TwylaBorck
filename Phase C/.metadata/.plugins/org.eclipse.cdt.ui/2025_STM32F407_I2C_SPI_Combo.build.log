@@ -1,0 +1,10 @@
+13:50:54 **** Incremental Build of configuration Debug for project 2025_STM32F407_I2C_SPI_Combo ****
+make -j7 all 
+arm-none-eabi-size  2025_STM32F407_I2C_SPI_Combo.elf 
+   text	   data	    bss	    dec	    hex	filename
+  42248	    124	   4140	  46512	   b5b0	2025_STM32F407_I2C_SPI_Combo.elf
+Finished building: default.size.stdout
+ 
+
+13:50:55 Build Finished. 0 errors, 0 warnings. (took 224ms)
+

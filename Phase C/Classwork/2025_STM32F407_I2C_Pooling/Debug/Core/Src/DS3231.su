@@ -1,0 +1,6 @@
+../Core/Src/DS3231.c:6:9:readRegister	32	static
+../Core/Src/DS3231.c:26:9:readBCDRegister	32	static
+../Core/Src/DS3231.c:46:6:writeRegister	32	static
+../Core/Src/DS3231.c:63:6:writeBCDRegister	32	static
+../Core/Src/DS3231.c:80:9:_toBcd	24	static
+../Core/Src/DS3231.c:86:9:_fromBcd	24	static
